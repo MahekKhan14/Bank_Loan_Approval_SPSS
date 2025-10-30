@@ -66,6 +66,6 @@ This means the model performs well even on unseen data.
 
 **Author:**
 Mahek Khan
-Data Science & Analytics Enthusiast
+
 
 
